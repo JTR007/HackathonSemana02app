@@ -1,4 +1,3 @@
-/*
 
 //Ejercicio #0
 let john = { 
@@ -178,7 +177,7 @@ const copySortered = (arr) => {
 alert(array);
 copySortered();
 
-*/
+
 //----------------------------------------------------------------------------------//
 //Ejercicio #6
 
@@ -218,7 +217,7 @@ const Calculator = () => {
 
 //----------------------------------------------------------------------------------//
 //Ejercicio #7
-/*
+
 let mensaje;
 let login = prompt("Escriba si es Empleado o Director");
 
@@ -228,4 +227,3 @@ let login = prompt("Escriba si es Empleado o Director");
     mensaje = 'Sin inicio de sesión': mensaje = '';
     
 console.log(mensaje);
-*/
